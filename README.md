@@ -1,8 +1,12 @@
-![두 사람이 게임 레벨 설계도와 캐릭터 시트를 펼쳐 놓고 플레이어의 이동 경로를 검토하는 모습](assets/portfolio-review.webp)
+<h1>
+  <a name="게임업계-취업-코치"></a>
+  <picture>
+    <source media="(max-width: 640px)" srcset="assets/career-coach-cover-mobile.webp">
+    <img src="assets/career-coach-cover.webp" alt="게임업계 취업 코치" width="1800">
+  </picture>
+</h1>
 
 <div align="center">
-
-# 게임업계 취업 코치
 
 **공고 분석부터 서류 작성과 면접 연습까지, Codex와 Claude에서 활용하는 게임업계 취업 스킬**
 
